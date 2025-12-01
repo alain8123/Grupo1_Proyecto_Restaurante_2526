@@ -19,7 +19,7 @@ public class InicioSistema {
     public static void main(String[] args) {
         if(Conexion.verificarUsuario()==true){
             Login frmLogin = new Login(); 
-           frmLogin.setVisible(true);
+           frmLogin.setVisible(false);
         }else{
             if((Conexion.creacionUsuario() ==true) && (Conexion.creacionBase()==true)){
             Login frmLogin = new Login();
@@ -29,3 +29,7 @@ public class InicioSistema {
             }
 
 }
+[feature/A3_nueva-funcionalidad 8672634] Validando cambios en InicioSistema.java
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[feature/A3_nueva-funcionalidad 39dcd0d] Validando cambios en InicioSistema.java
+ 1 file changed, 2 insertions(+)

@@ -1,6 +1,6 @@
 
-create user panaderia identified by abcd1234
+create user numero1 identified by abcd1234
 
-grant connect to panaderia
+grant connect to numero1
 
 grant all privileges to panaderia identified by abcd1234
