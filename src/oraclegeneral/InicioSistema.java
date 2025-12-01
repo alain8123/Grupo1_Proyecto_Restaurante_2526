@@ -28,3 +28,5 @@ public class InicioSistema {
             }
 
 }
+[feature/A3_nueva-funcionalidad 8672634] Validando cambios en InicioSistema.java
+ 1 file changed, 1 insertion(+), 1 deletion(-)
