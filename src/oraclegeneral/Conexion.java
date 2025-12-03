@@ -13,6 +13,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 /**
+ *ALAIN EDICION
  * Clase que contiene los metodos para la conexion de la base de datos asi como
  * los metodos de busqueda y de actualizacion de la base.
  *
