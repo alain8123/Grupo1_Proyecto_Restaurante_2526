@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
  *
  * @author Erik David Zubia Hernandez
  * @version 1.0
- * @since 15/05/2015
+ * @since 15/05/2025
  */
 public class Conexion {
 
@@ -100,7 +100,7 @@ public class Conexion {
     }*/
 
     /**
-     * Metodo que crea el usuario que se utilizara para todo el sistema. Este
+     * Metodo que crea el usuario ivan que se utilizara para todo el sistema. Este
      * solamente se usara una vez que sera al correr por primera vez el
      * programa.
      */
